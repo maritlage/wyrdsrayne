@@ -2,13 +2,16 @@
   "name": "wyrdsrayne",
   "displayName": "wyrdsrayne",
   "description": "Pastel Darkish Theme",
-  "version": "4.2.0",
+  "version": "5.0.1",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
   ],
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://github.com/maritlage/wyrdsrayne",
+  "repository": "https://github.com/maritlage/wyrdsrayne",
   "contributes": {
     "themes": [
       {
