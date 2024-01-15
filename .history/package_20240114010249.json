@@ -1,0 +1,21 @@
+{
+  "name": "wyrdsrayne",
+  "displayName": "wyrdsrayne",
+  "description": "Pastel Darkish Theme",
+  "version": "2.50.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "wyrdsrayne",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wyrdsrayne-color-theme.json"
+      }
+    ]
+  }
+}
